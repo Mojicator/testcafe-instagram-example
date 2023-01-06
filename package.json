@@ -9,6 +9,6 @@
   "author": "Oscar Antonio Hernandez Mojica",
   "license": "ISC",
   "dependencies": {
-    "testcafe": "^1.8.3"
+    "testcafe": "^1.20.1"
   }
 }
